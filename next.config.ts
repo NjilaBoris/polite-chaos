@@ -1,7 +1,10 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  experimental: {
+    // Enable native View Transitions API support in Next.js
+    viewTransitions: true,
+  },
 };
 
 export default nextConfig;
