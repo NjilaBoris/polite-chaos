@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d20135dc-4cdf-40f0-b688-f5495fa571d0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Menu.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eslint.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/eslint.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/featured-work/work-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/featured-work/work-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/featured-work/work-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/featured-work/work-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/featured-work/work-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/featured-work/work-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/big-shoulders-display/BigShouldersDisplay.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/geist-mono/geist-mono-variable.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/neue-montral/PPNeueMontreal-Bold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/neue-montral/PPNeueMontreal-Book.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/neue-montral/PPNeueMontreal-Light.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/neue-montral/PPNeueMontreal-Medium.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/neue-montral/PPNeueMontreal-Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/neue-montral/PPNeueMontreal-Thin.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/pangram-sans/PPPangramSans-Bold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/pangram-sans/PPPangramSans-Extrabold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/pangram-sans/PPPangramSans-Light.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/pangram-sans/PPPangramSans-Medium.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/pangram-sans/PPPangramSans-Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/pangram-sans/PPPangramSans-Semibold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/pangram-sans/PPPangramSans-Thin.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/menu/menu_img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/objects/obj-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/objects/obj-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/objects/obj-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/objects/obj-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/objects/obj-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/objects/obj-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/objects/obj-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/objects/obj-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/objects/obj-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/objects/obj-9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/project/next-project.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/project/sample-project-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/project/sample-project-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/project/sample-project-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/project/sample-project-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/project/sample-project-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/project/sample-project-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/showreel/showreel-frame-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/showreel/showreel-frame-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/showreel/showreel-frame-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/showreel/showreel-frame-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/showreel/showreel-frame-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/showreel/showreel-frame-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/showreel/showreel_music.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/site-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spotlight/spotlight-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spotlight/spotlight-10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spotlight/spotlight-11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spotlight/spotlight-12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spotlight/spotlight-13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spotlight/spotlight-14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spotlight/spotlight-15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spotlight/spotlight-16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spotlight/spotlight-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spotlight/spotlight-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spotlight/spotlight-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spotlight/spotlight-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spotlight/spotlight-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spotlight/spotlight-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spotlight/spotlight-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spotlight/spotlight-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stories/profile-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stories/profile-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stories/profile-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stories/profile-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stories/profile-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stories/profile-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stories/story-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stories/story-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stories/story-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stories/story-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stories/story-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stories/story-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/studio/studio-header.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team-cards/team-member-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team-cards/team-member-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team-cards/team-member-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team-cards/team-member-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/team-cards/team-member-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/work/work_1_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/work/work_1_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/work/work_1_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/work/work_2_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/work/work_2_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/work/work_2_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/work/work_3_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/work/work_3_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/work/work_3_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/work/work_4_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/work/work_4_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/work/work_4_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/work/work_5_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/work/work_5_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/work/work_5_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/work/work_6_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/work/work_6_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/work/work_6_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="35HbV13llQRsvtmlb2Jl7q8cJHV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.26830.93" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d20135dc-4cdf-40f0-b688-f5495fa571d0" name="Changes" comment="" />
+      <created>1762769970170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762769970170</updated>
+      <workItem from="1762770006402" duration="870000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
